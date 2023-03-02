@@ -1,0 +1,464 @@
+{
+    "greetings": [
+        "Hey there!",
+        "What's going on?",
+        "Nice to see you!",
+        "Greetings!",
+        "Yo!"
+    ],
+    "asking_about_someone": [
+        "How's your family?",
+        "How's work/school going?",
+        "What have you been up to lately?",
+        "How's your health?",
+        "How's your day been so far?"
+    ],
+    "introducing_oneself": [
+        "Pleased to meet you!",
+        "My name's [name], and you are?",
+        "I don't think we've met before. I'm [name].",
+        "Allow me to introduce myself. I'm [name].",
+        "Hi, I'm [name]. Nice to meet you."
+    ],
+    "asking_for_information": [
+        "Can you elaborate on that?",
+        "What's the backstory behind that?",
+        "Do you have any more details on that?",
+        "Could you give me some more information on that?",
+        "I'm curious to know more about that."
+    ],
+    "expressing_gratitude": [
+        "Thank you so much!",
+        "I really appreciate it!",
+        "You're the best!",
+        "Thanks a million!",
+        "I can't thank you enough!"
+    ],
+    "apologizing": [
+        "I'm sorry for my mistake.",
+        "I apologize for my behavior earlier.",
+        "Please forgive me for what I said.",
+        "I didn't mean to offend you, I'm sorry.",
+        "I'm sorry for any inconvenience I may have caused."
+    ],
+    "saying_goodbye": [
+        "See you soon!",
+        "Catch you later!",
+        "Until next time!",
+        "Take it easy!",
+        "Adios!"
+    ],
+    "agreeing": [
+        "I completely agree with you.",
+        "You're absolutely right.",
+        "I couldn't have said it better myself.",
+        "I agree wholeheartedly.",
+        "That's exactly how I feel."
+    ],
+    "disagreeing": [
+        "I'm not sure I agree with that.",
+        "I see things a bit differently.",
+        "I'm afraid I have to disagree.",
+        "I'm not convinced that's the best approach.",
+        "I respectfully disagree."
+    ],
+    "making_small_talk": [
+        "How was your day?",
+        "Are you excited for the weekend?",
+        "Have you been to any good concerts lately?",
+        "What are your plans for the summer?",
+        "How's your family doing?"
+    ],
+    "expressing_surprise": [
+        "Wow, I didn't see that coming!",
+        "I can't believe it!",
+        "That's amazing!",
+        "You're kidding me, right?",
+        "I'm shocked!"
+    ],
+    "positive_responses": [
+        "Absolutely!",
+        "Definitely!",
+        "You got it!",
+        "Great idea!",
+        "Sounds good to me!"
+    ],
+    "negative_responses": [
+        "I'm afraid not.",
+        "Sorry, that's not possible.",
+        "Unfortunately, no.",
+        "I don't think that's a good idea.",
+        "I have to decline."
+    ],
+    "expressing_confusion": [
+        "I'm not sure I understand.",
+        "Could you clarify that for me?",
+        "I'm a bit confused, can you explain?",
+        "I'm not following, can you repeat that?",
+        "I don't get it, can you elaborate?"
+    ],
+    "expressing_disbelief": [
+        "You're kidding me, right?",
+        "I can't believe what I'm hearing.",
+        "Are you serious?",
+        "I'm in shock right now.",
+        "This is unbelievable."
+    ],
+    "expressing_indifference": [
+        "I don't really care one way or the other.",
+        "It doesn't matter to me.",
+        "Whatever works.",
+        "I have no strong feelings about it.",
+        "It's all the same to me."
+    ],
+    "expressing_excitement": [
+        "I can't wait for this!",
+        "This is going to be so much fun!",
+        "I'm really excited about this opportunity!",
+        "This is such a great news!",
+        "I'm thrilled to hear that!"
+    ],
+    "expressing_frustration": [
+        "This is so frustrating!",
+        "I can't believe this is happening!",
+        "I'm at my wit's end!",
+        "I'm so angry!",
+        "Why does this always happen to me?"
+    ],
+    "expressing_doubt": [
+        "I'm not sure that's the best approach.",
+        "I have my doubts about this plan.",
+        "I'm skeptical about whether this will work.",
+        "I'm not convinced that this is the right solution.",
+        "I'm hesitant to agree without more information."
+    ],
+    "asking_for_opinion": [
+        "What do you think about this?",
+        "How do you feel about that?",
+        "Do you have an opinion on this?",
+        "What's your take on this?",
+        "What's your perspective?"
+    ],
+    "agreeing_partially": [
+        "I see your point, but...",
+        "I agree with you to a certain extent, but...",
+        "I can understand where you're coming from, but...",
+        "I agree with some of what you're saying, but...",
+        "I agree with you in principle, but..."
+    ],
+    "expressing_regret": [
+        "I'm sorry that happened.",
+        "I regret not being able to help you more.",
+        "I wish I could have done things differently.",
+        "I'm sorry if I caused any inconvenience.",
+        "I'm sorry for any misunderstanding."
+    ],
+    "asking_for_permission": [
+        "Is it okay if I...",
+        "Do you mind if I...",
+        "Would it be all right if I...",
+        "May I...",
+        "Can I have your permission to..."
+    ],
+    "asking_for_directions": [
+        "Excuse me, can you tell me how to get to...",
+        "I'm lost, could you help me find...",
+        "Do you know the way to...",
+        "Could you give me directions to...",
+        "Can you tell me which way to go to get to..."
+    ],
+    "expressing_satisfaction": [
+        "I'm really happy with how things turned out!",
+        "That's exactly what I was hoping for!",
+        "I couldn't be more pleased!",
+        "This exceeded my expectations!",
+        "I'm completely satisfied!"
+    ],
+    "expressing_disappointment": [
+        "I'm really disappointed about this.",
+        "This is not what I was hoping for.",
+        "I'm sad that things didn't turn out as expected.",
+        "This is a letdown.",
+        "I'm feeling let down by this news."
+    ],
+    "expressing_sympathy": [
+        "I'm sorry to hear that.",
+        "That must be really tough.",
+        "I feel for you.",
+        "I can't imagine what you're going through.",
+        "Is there anything I can do to help?"
+    ],
+    "asking_for_clarification": [
+        "Can you explain that again, please?",
+        "I'm not sure I understand what you mean.",
+        "Could you clarify what you're trying to say?",
+        "I'm a bit confused, could you go over that again?",
+        "Just to be clear, are you saying..."
+    ],
+    "offering_help": [
+        "Do you need any assistance?",
+        "I'm happy to help in any way I can.",
+        "Let me know if there's anything I can do to help.",
+        "Would you like me to take care of that for you?",
+        "Can I offer any support or advice?"
+    ],
+    "expressing_concern": [
+        "I'm worried about this.",
+        "This is concerning.",
+        "I have some reservations about this.",
+        "I'm a bit uneasy about this.",
+        "I'm not sure this is the right decision."
+    ],
+    "giving_advice": [
+        "I think the best course of action would be to...",
+        "If I were you, I would...",
+        "One approach you could take is...",
+        "Have you considered trying...",
+        "It might be helpful to..."
+    ],
+    "asking_for_favors": [
+        "Could you do me a favor?",
+        "Would it be possible for you to help me out?",
+        "I was wondering if you could assist me with something.",
+        "Do you mind if I ask you for a favor?",
+        "I need a small favor from you, if you don't mind."
+    ],
+    "expressing_hope": [
+        "I hope everything works out.",
+        "I'm keeping my fingers crossed for you.",
+        "I have faith in you.",
+        "I believe things will get better.",
+        "I'm optimistic about the future."
+    ],
+    "expressing_uncertainty": [
+        "I'm not quite sure what to think.",
+        "I'm feeling a bit unsure about this.",
+        "I'm not entirely certain what the best course of action is.",
+        "I'm having some doubts about this.",
+        "I'm not sure what the right decision is."
+    ],
+    "making_suggestions": [
+        "Maybe we should try a different approach.",
+        "Have you considered doing it this way?",
+        "What if we tried this instead?",
+        "Perhaps we could do X instead of Y.",
+        "I have an idea, why don't we do Z?"
+    ],
+    "expressing_joy": [
+        "This is so much fun!",
+        "I'm having a great time!",
+        "I'm really enjoying myself!",
+        "This makes me so happy!",
+        "I'm filled with joy!"
+    ],
+    "asking_for_opinions": [
+        "What do you think of this idea?",
+        "How do you feel about this situation?",
+        "What's your take on this issue?",
+        "In your opinion, what's the best approach here?",
+        "Do you have any thoughts on how we can solve this problem?"
+    ],
+    "expressing_confidence": [
+        "I have full confidence in you.",
+        "I believe in you.",
+        "You've got this!",
+        "I trust that you'll do the right thing.",
+        "I have every confidence that you'll succeed."
+    ],
+    "expressing_relieve": [
+        "I'm so relieved!",
+        "What a relief!",
+        "I can finally breathe easy!",
+        "I'm glad that's over!",
+        "I feel a huge weight lifted off my shoulders!"
+    ],
+    "making_requests": [
+        "Can you help me with this task, please?",
+        "Could you pass me the salt, please?",
+        "Would it be possible to extend the deadline?",
+        "Can we reschedule our meeting for tomorrow?",
+        "Would you mind keeping an eye on my bag for a moment?"
+    ],
+    "making_promises": [
+        "I promise to do my best.",
+        "I will definitely make it happen.",
+        "You can count on me to deliver.",
+        "I won't let you down.",
+        "I give you my word that I'll follow through."
+    ],
+    "giving_compliments": [
+        "You did a fantastic job on this project.",
+        "Your outfit looks great on you.",
+        "That was an impressive presentation.",
+        "You have a great sense of humor.",
+        "Your hard work and dedication really paid off."
+    ],
+    "giving_encouragement": [
+        "Keep up the good work!",
+        "You can do it!",
+        "I believe in you!",
+        "Don't give up!",
+        "You've got this!"
+    ],
+    "expressing_empathy": [
+        "I can understand why you feel that way.",
+        "I'm sorry you're going through a tough time.",
+        "That sounds really difficult.",
+        "I can imagine how frustrating that must be.",
+        "It's understandable why you would feel that way."
+    ],
+    "giving_instructions": [
+        "Here's how you can do it...",
+        "First, you need to...",
+        "Next, you should...",
+        "Then, you can...",
+        "Finally, make sure to..."
+    ],
+    "giving_warnings": [
+        "Be careful!",
+        "Watch out!",
+        "Don't do that!",
+        "That's dangerous!",
+        "Be warned!"
+    ],
+    "expressing_pride": [
+        "I'm so proud of you!",
+        "You should be proud of yourself!",
+        "I knew you could do it!",
+        "You've come so far!",
+        "I'm impressed by your accomplishments!"
+    ],
+    "expressing_disagreement": [
+        "I see things differently.",
+        "I respectfully disagree with you.",
+        "I'm not sure I agree with that.",
+        "I understand your point, but I have a different opinion.",
+        "I have to disagree with your perspective on this."
+    ],
+    "giving_condolences": [
+        "I'm so sorry for your loss.",
+        "My thoughts are with you and your family.",
+        "Please accept my deepest sympathies.",
+        "I can't imagine how difficult this must be for you.",
+        "If there's anything I can do to help, please let me know."
+    ],
+    "making_invitations": [
+        "Would you like to join us?",
+        "We're having a party, do you want to come?",
+        "I was thinking of going to the beach, would you like to come?",
+        "Do you want to grab a coffee?",
+        "I'd love to hang out sometime, are you free?"
+    ],
+    "expressing_anger": [
+        "I'm really upset about this!",
+        "I'm so angry right now!",
+        "This is making me really mad!",
+        "I can't believe this is happening!",
+        "I'm at my wit's end with this!"
+    ],
+    "making_recommendations": [
+        "I highly recommend checking out this book/movie/restaurant.",
+        "If you're looking for a good workout, I suggest trying out this fitness class.",
+        "You might enjoy listening to this podcast if you like true crime stories.",
+        "If you're interested in learning more about this topic, I recommend reading this article.",
+        "I think you would really like this artist's music if you're into indie rock."
+    ],
+    "thanking": [
+        "Thank you so much!",
+        "I really appreciate it!",
+        "Thanks for your help!",
+        "I can't thank you enough!",
+        "I'm grateful for your assistance!"
+    ],
+    "expressing_skepticism": [
+        "I'm not sure if that's true.",
+        "That sounds too good to be true.",
+        "I have my doubts about that.",
+        "Are you sure that's accurate?",
+        "I'm skeptical about that claim."
+    ],
+    "asking_about_hobbies": [
+        "What do you like to do in your free time?",
+        "Do you have any hobbies or interests?",
+        "What's your favorite way to unwind?",
+        "How do you like to spend your weekends?",
+        "Do you have any favorite outdoor activities?"
+    ],
+    "expressing_interest": [
+        "That sounds really interesting!",
+        "I'm curious to learn more about that.",
+        "That's fascinating!",
+        "Tell me more!",
+        "I'd love to hear more about that."
+    ],
+    "congratulating": [
+        "Congratulations on your promotion!",
+        "Well done, you did an amazing job!",
+        "I'm so happy for your success!",
+        "You should be proud of yourself!",
+        "Congrats on achieving your goal!"
+    ],
+    "asking_for_recommendations": [
+        "Do you have any recommendations for a good restaurant?",
+        "Can you suggest a good book to read?",
+        "Where's a good place to go for a weekend getaway?",
+        "What's a good movie to watch right now?",
+        "Do you know of any good hiking trails in the area?"
+    ],
+    "encouraging": [
+        "You can do it!",
+        "Keep up the good work!",
+        "I believe in you!",
+        "Don't give up!",
+        "You've got this!"
+    ],
+    "expressing_agreement": [
+        "I completely agree with you.",
+        "That's exactly what I was thinking.",
+        "I couldn't have said it better myself.",
+        "You're absolutely right about that.",
+        "I agree with your assessment."
+    ],
+    "making_plans": [
+        "Would you like to grab lunch sometime?",
+        "Let's plan to get together next weekend.",
+        "Do you want to go see a movie tonight?",
+        "We should plan a trip together sometime.",
+        "How about we meet up for coffee tomorrow?"
+    ],
+    "expressing_happiness": [
+        "I'm so happy for you!",
+        "Congratulations on your success!",
+        "That's wonderful news!",
+        "I'm thrilled to hear that!",
+        "I'm really happy we got to spend time together today!"
+    ],
+    "sharing_personal_information": [
+        "I grew up in a small town in the countryside.",
+        "I have two younger brothers and a dog named Max.",
+        "I love to cook and try out new recipes.",
+        "I enjoy hiking and spending time outdoors.",
+        "I'm currently learning how to play the guitar."
+    ],
+    "making_arrangements": [
+        "What time and where should we meet?",
+        "Let's schedule a call for tomorrow at 2 PM.",
+        "Can we move the meeting to next Wednesday?",
+        "I'll send you an email to confirm the details.",
+        "Should I book a reservation for two or three people?"
+    ],
+    "expressing_condolences": [
+        "I'm sorry for your loss.",
+        "My deepest sympathies go out to you and your family.",
+        "I can't imagine how difficult this must be for you.",
+        "Please let me know if there's anything I can do to help.",
+        "You're in my thoughts during this tough time."
+    ],
+    "asking_for_help": [
+        "Could you give me a hand with this?",
+        "I'm struggling with this task, can you help me out?",
+        "Would it be possible for you to lend me a hand?",
+        "Do you have any tips or suggestions for how to approach this problem?",
+        "I'm not sure how to proceed, can you give me some guidance?"
+    ]
+}
